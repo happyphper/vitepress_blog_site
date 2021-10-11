@@ -22,3 +22,4 @@ jobs:
         source: "docs/.vitepress/dist/*"
         target: "blog"
         rm: true
+        strip_components: 3
