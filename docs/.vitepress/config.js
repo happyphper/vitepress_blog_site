@@ -7,8 +7,8 @@ module.exports = {
     logo: "/images/logo.png",
     nav: [
       { text: "首页", link: "/" },
-      { text: "技术笔记", link: "/notes/栏目介绍" },
-      { text: "好书推荐", link: "/books/栏目介绍" },
+      { text: "技术笔记", link: "/notes/" },
+      { text: "好书推荐", link: "/books/" },
       { text: "Github", link: "https://github.com/happyphper" },
     ],
     sidebar: {
@@ -37,10 +37,10 @@ module.exports = {
         },
       ],
       "/books/": [
-        { text: "栏目介绍", link: "/books/栏目介绍" },
-        { text: "如何阅读一本书", link: "/books/如何阅读一本书" },
-        { text: "深入理解计算机系统", link: "/books/深入理解计算机系统" },
-        { text: "算法导论", link: "/books/算法导论" },
+        { text: "栏目介绍", link: "/books/" },
+        { text: "如何阅读一本书", link: "/books/how-to-read-a-book" },
+        { text: "深入理解计算机系统", link: "/books/computer-systems" },
+        { text: "算法导论", link: "/books/introduction-to-algorithms" },
       ],
     },
   },

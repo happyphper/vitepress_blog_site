@@ -4,7 +4,7 @@ heroImage: /images/avatar.jpeg
 heroText: 个人笔记
 tagline: — 王码码 —
 actionText: 开始浏览 😊
-actionLink: /notes/栏目介绍
+actionLink: /notes/
 features:
 - title: 技术笔记
   details: 学习热门技术，输出有深度、有内容的高质量教程。

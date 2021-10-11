@@ -7,10 +7,9 @@
 - 分享思路，能够同各位交流思想；
 
 ## 已阅
-
-- [如何阅读一本书](/books/如何阅读一本书)
+- [如何阅读一本书](/books/how-to-read-a-book)
 
 ## 在读
 
-- [深入理解计算机系统](/books/深入理解计算机系统)
-- [算法导论](/books/算法导论)
+- [深入理解计算机系统](/books/computer-systems)
+- [算法导论](/books/introduction-to-algorithms)
